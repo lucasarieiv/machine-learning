@@ -1,7 +1,6 @@
 # Atividade
 
 Nome: Lucas Vieira da Silva<br>
-Matrícula: **01301103**
 
 
 ## Sobreviventes e Vítimas Titanic
